@@ -1,4 +1,4 @@
-#  Time Series Traffic Prediction
+#  Time Series Web-Traffic Prediction
 
 ## 📌 Overview
 This project focuses on predicting traffic flow using machine learning models.  
